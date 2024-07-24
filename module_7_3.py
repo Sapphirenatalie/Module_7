@@ -1,3 +1,4 @@
+# оператор with
 from random import randint, uniform
 
 team1 = 'Мастера кода'
