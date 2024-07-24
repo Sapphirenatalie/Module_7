@@ -1,4 +1,4 @@
-# оператор with
+# Форматирование строк
 from random import randint, uniform
 
 team1 = 'Мастера кода'
