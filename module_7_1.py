@@ -1,3 +1,4 @@
+# Режимы открытия файлов
 file_name = 'Byron.txt'
 file = open(file_name, 'r')
 file_content = file.read()
