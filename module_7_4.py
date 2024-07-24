@@ -31,7 +31,6 @@ for root, dirs, files in os.walk(directory_normalized):
 # Научиться применять методы os.walk, os.path.join, os.path.getmtime,
 # os.path.dirname, os.path.getsize и использование модуля time для корректного отображения времени.
 
-# Задание:
 # Создайте новый проект или продолжите работу в текущем проекте.
 # Используйте os.walk для обхода каталога, путь к которому указывает переменная directory
 # Примените os.path.join для формирования полного пути к файлам.
