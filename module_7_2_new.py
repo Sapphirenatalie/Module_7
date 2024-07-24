@@ -1,3 +1,4 @@
+# Позиционирование в файле
 file_name = "test"
 strings = ['Text for tell.', 'Используйте кодировку utf-8.', 'Because there are 2 languages!', 'Спасибо!']
 
